@@ -3,3 +3,5 @@ Arquivo de teste para o curso de Git
 Fazendo alteração no arquivo
 
 Adicionando uma nova linha
+
+Add mais uma linha
