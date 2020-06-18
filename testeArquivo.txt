@@ -5,3 +5,5 @@ Fazendo alteração no arquivo
 Adicionando uma nova linha
 
 Add mais uma linha
+
+Excluir essa linha depois
