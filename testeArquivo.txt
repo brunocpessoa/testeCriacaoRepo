@@ -15,3 +15,4 @@ Trabalhando com reabse na master
 Fechando issue
 Inserindo mais uma alteração no commit anterior
 Testando git tash
+Fechando o milestone via git bash
